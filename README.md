@@ -172,8 +172,8 @@ Agents interact with multiple tools:
 ---
 ## Architecture Diagram
 
-![Architecture Diagram](Enterprise _Gen AI_Arcitecture.png)
-Enterprise _Gen AI_Arcitecture.png
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/11f320ad-967a-4cde-87d2-927674bdc00c" />
+
 
 ## Disclaimer
 
