@@ -173,6 +173,7 @@ Agents interact with multiple tools:
 ## Architecture Diagram
 
 ![Architecture Diagram](Enterprise _Gen AI_Arcitecture.png)
+Enterprise _Gen AI_Arcitecture.png
 
 ## Disclaimer
 
