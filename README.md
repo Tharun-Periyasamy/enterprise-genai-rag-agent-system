@@ -170,6 +170,9 @@ Agents interact with multiple tools:
 - Handling real-world data requires iterative improvements  
 
 ---
+## Architecture Diagram
+
+![Architecture Diagram](Enterprise _Gen AI_Arcitecture.png)
 
 ## Disclaimer
 
